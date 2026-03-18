@@ -26,4 +26,4 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con ba
 - **Lógica de Control de Robots (Arduino/C++):** Programación de sistemas autónomos con sensores (PAP, Ultrasonido).
 
 ---
-📫 **Cómo contactarme:** [Tu LinkedIn, Mail o link a GitHub Pages aquí]
+📫 **Cómo contactarme:** quintela.leandro@gmail.com
