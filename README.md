@@ -5,7 +5,7 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con ba
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente cursando 3er año de Ingeniería.
-- 🛠️ Técnico Electrónico: Me apasiona la intersección entre el hardware y el software.
+- 🛠️ Técnico Electrónico: Formación técnica de base evolucionando hacia la ingeniería de sistemas con foco en la optimización algorítmica y la Inteligencia Artificial.
 - 🧠 Mi objetivo a largo plazo es la investigación y excelencia técnica, apuntando a un Doctorado en IA.
 - 🐍 Actualmente trabajando en proyectos de automatización y gestión de datos con **Python**.
 
@@ -23,7 +23,10 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con ba
 
 - **Sistema de Gestión de Impacto Ambiental (Python):** Aplicación con Web Scraping y persistencia de datos.
 - **Algoritmos y Estructuras de Datos (C++):** Repositorios de lógica compleja desarrollados en la UTN.
-- **Lógica de Control de Robots (Arduino/C++):** Programación de sistemas autónomos con sensores (PAP, Ultrasonido).
+- **Lógica de Control de Robots (Arduino/C++):** Programación de sistemas autónomos con sensores (PAP, Ultrasonido, Servomotor, Infrarrojo).
 
 ---
-📫 **Cómo contactarme:** quintela.leandro@gmail.com
+📫 **Cómo contactarme:** 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintela.leandro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-nicol%C3%A1s-quintela-2064b7231/)
