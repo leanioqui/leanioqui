@@ -1,5 +1,11 @@
 # ¡Hola! Soy Leandro 👋
 
+<p align="left">
+  <a href="https://leanioqui.github.io">
+    <img src="https://img.shields.io/badge/VISTAR_PORTFOLIO_WEB-0071e3?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+</p>
+
 Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con base técnica en electrónica y un fuerte enfoque hacia la **Inteligencia Artificial** y la computación científica.
 
 ## 🚀 Sobre mí
