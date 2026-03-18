@@ -30,3 +30,5 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con ba
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintela.leandro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-nicol%C3%A1s-quintela-2064b7231/)
+
+> También podés escribirme directamente a: **quintela.leandro@gmail.com**
