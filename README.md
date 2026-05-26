@@ -17,7 +17,7 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con ba
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Tecnologías que manejo (Badges)
+### Tecnologías que manejo
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
