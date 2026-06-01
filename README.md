@@ -34,8 +34,8 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRBA, con ba
 ---
 
 ### 📊 GitHub Stats
-![Estadísticas de Leandro](https://github-readme-stats.vercel.app/api?username=leanioqui&show_icons=true&theme=transparent&hide_border=true&title_color=0071e3&icon_color=0071e3&text_color=ffffff)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=leanioqui&layout=compact&theme=transparent&hide_border=true&title_color=0071e3&text_color=ffffff)
+![Estadísticas de Leandro](https://github-readme-stats-eight-theta.vercel.app/api?username=leanioqui&show_icons=true&theme=transparent&hide_border=true&title_color=0071e3&icon_color=0071e3&text_color=ffffff)
+![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leanioqui&layout=compact&theme=transparent&hide_border=true&title_color=0071e3&text_color=ffffff)
 
 📫 **Cómo contactarme:** 
 
