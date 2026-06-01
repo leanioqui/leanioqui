@@ -1,0 +1,44 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Se ejecuta automáticamente todas las noches
+  workflow_dispatch: # Te permite ejecutarlo manualmente cuando quieras
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Stats Card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: leanioqui
+          output: github-readme-stats.svg
+          theme: transparent
+          hide_border: true
+          title_color: '0071e3'
+          icon_color: '0071e3'
+          text_color: 'ffffff'
+          show_icons: true
+
+      - name: Generate Languages Card
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: leanioqui
+          output: github-readme-stats-langs.svg
+          theme: transparent
+          hide_border: true
+          title_color: '0071e3'
+          text_color: 'ffffff'
+          layout: compact
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-readme-stats.svg github-readme-stats-langs.svg
+          git commit -m "Update GitHub Stats images" || exit 0
+          git push
